@@ -192,7 +192,7 @@ float:left; /* Выравнивание по левому краю */
 }
 .content-top {
 	position: relative;
-	min-height: 100em;
+	/*min-height: 100em;*/
 }
 .content {
 	background: #fff;
